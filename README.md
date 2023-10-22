@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at  <a href="https://ravitheja1996.github.io/" target="blank">`portfolio`</a>.
+- 👨‍💻 All of my projects are available at my [Prtfolio](https://ravitheja1996.github.io/)
 
 - 💬 Ask me about **React, CSS, Javascript, NodeJS**
 
