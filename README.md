@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at my <a href="https://ravitheja1996.github.io">Portfolio</a>
+- 👨‍💻 All of my projects are available at my [https://ravitheja1996.github.io](https://RaviTheja1996.github.io)
 
 - 💬 Ask me about **React, CSS, Javascript, NodeJS**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://rebrand.ly/ravitheja-pdf-d1c49f](https://rebrand.ly/ravitheja-pdf-d1c49f)
 
-- 🎉 My Portfolio [https://ravitheja1996.github.io/](https://ravitheja1996.github.io)
+- 🎉 My Portfolio https://RaviTheja1996.github.io
 
 - ⚡ Fun fact **Did you know that I once coded through an entire night fueled by a combination of coffee, determination, and a playlist that could rival a DJ's set? 🌙☕🎶 The bugs didn't stand a chance against my coding marathon!**
 
